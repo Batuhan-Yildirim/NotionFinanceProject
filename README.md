@@ -2,7 +2,7 @@
 
 The Notion is a new era for a workspace 📑 where you can think, write, and plan. When you use it, you will see a simple user interface and you don’t need anything. Just click the button and discover an amazing world 👻. In this way, you can increase your personal efficiency ⏱, and improve your memory with Notion. I am using it for daily notes, saving websites, recording codes, and creating a deadline for my projects. For this reason, I developed a project in Notion with Python. I specifically focus on database uploading and downloading steps in Python. For visualization, I used a Notion. Also, this project includes javascript codes. So, if you don't know about javascript you can watch these videos.
 
-[![For Notion API Video 1](https://unsplash.com/photos/aFbs3cwlpZI)](https://www.youtube.com/watch?v=M1gu9MDucMA&ab_channel=PatrickLoeber)
+[![For Notion API Video 1](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/assets/110935969/2be95f97-f374-4660-9acf-51befaa1ec76)](https://www.youtube.com/watch?v=M1gu9MDucMA&ab_channel=PatrickLoeber)
 
 # Jupyter Notebooks Workbooks 🗂
 
