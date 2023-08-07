@@ -131,11 +131,13 @@ class codesaving:
 
         print("Completed !!")
         
+        os.remove(f"test_codes\script.txt")
+        
         return one or two or three or four
 
         
         
-     
+# Example    
 
   # Token is Your API 
 notion_token = os.getenv("notion_token_2")
@@ -143,6 +145,13 @@ notion_token = os.getenv("notion_token_2")
 # Notion Page URL
 notion_page_id = os.getenv("notion_page_id_2")
 
+
+'''
+When you need to push your scripts automatically at Notion, Just write file name, token, and page_id.
+
+These codes send automatically and save your current script at Notion.
+
+'''
 
 script = codesaving("StockPrice.py",notion_token,notion_page_id).main()
 print(script)
