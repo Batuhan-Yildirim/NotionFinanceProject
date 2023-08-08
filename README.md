@@ -31,6 +31,15 @@ I provide some financial formulas for you, you can check and improve your financ
 
 ---
 
+## [CodeSaving](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/blob/main/CodeSaving.py) 
+
+When you need to push your scripts automatically at Notion. You can use this [CodeSaving](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/blob/main/CodeSaving.py)
+
+Also, I provide a [test file](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/tree/main/test_codes) for your work in .txt format. 
+
+This Python file's aim is a push code automatically to your report. So, this function is not available for more than 8000 lines.
+
+---
 ## 📌 Sources 
 
 <img src="https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/assets/110935969/89f6f749-f96f-4132-8534-9f38a4bcefac" alt="notion avatar" width="15%" height="15%" align="right">
