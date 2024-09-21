@@ -29,6 +29,11 @@ I provide some financial formulas for you, you can check and improve your financ
 
 * [Formulas Woorkbook](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/blob/main/WorkCodes/ForumlasWorkBook.ipynb)
 
+
+I created a database about Financial Accounting Glossary for you. It includes keywords for understanding Financial Accounting. You can find [Financial Accounting Glossary](https://www.notion.so/batuhanyildirim/Finance-Dictionary-Libraries-743da84b1de540df8da8c5d5d8460c79?pvs=4) on Notion. Also, I provided a script to reach the database with Python.
+
+ * [Financial Accounting Glossary](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/blob/main/Finance_Glossary/Finance_Glossary.ipynb)
+
 ---
 
 ## [CodeSaving](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/blob/main/CodeSaving.py) 
