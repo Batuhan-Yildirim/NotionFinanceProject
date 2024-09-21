@@ -28,14 +28,14 @@ warnings.filterwarnings('ignore')
 
 # MCD = McDonald's Corporation 
 
-Data = yf.Ticker("MCD")
+Data = yf.Ticker("TSLA")
 
 Data_history = Data.history(period="max")
 
 Data_history.index = Data_history.index.strftime("%Y-%m-%d")
 Data_history.index = Data_history.index.astype(str)
 
-Close_prcie = Data_history.iloc[-1][["Close"]].values
+Close_price = Data_history.iloc[-1][["Close"]].values
 Date = Data_history.index[-1]
 
 info_keys = Data.info.keys()          # Company information
@@ -55,19 +55,17 @@ name = Data_info[Data_info.index == "longName"]["Information"][-1]
 ####################################################  
 
 # Token is Your API 
-notion_token = os.getenv("notion_token")
+notion_token = os.getenv("notion_stock_token")
 
-# Notion URL
-notion_page_id = os.getenv("notion_page_id")
+# Notion Database URL
 notion_database_id = os.getenv("notion_stockprices")
-
 
 
 def write_row(client, database_id, company_name, price, date):
 
     client.pages.create(
         **{
-            "parent": {
+            "parent": {"type": "database_id",
                 "database_id": database_id
             },
             'properties': {
@@ -84,7 +82,7 @@ def main():
     print("Data is being sent to your database!!")
     client = Client(auth=notion_token)
     user_id = name
-    event =  Close_prcie[0]
+    event =  Close_price[0]
     date = Date
     write_row(client, notion_database_id, user_id, event,date)
     print("Completed !!")
