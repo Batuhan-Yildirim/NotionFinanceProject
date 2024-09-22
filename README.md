@@ -21,6 +21,7 @@ The Notion is a new era for a workspace 📑 where you can think, write, and pla
 3) I created a database about Invoice Managment for you. It is a very helpfull for Account Payable managment and analyst your spending. You can find [Invoice Database](https://batuhanyildirim.notion.site/Invoices-Database-43319bc014cd43ad9c2d306c2592c60f) on Notion. Also, I provided a script to reach the database with Python.
 
  * [Invoice Database](https://github.com/Batuhan-Yildirim/NotionFinanceProject/blob/main/Invoice_db/invoice.py)
+ * [Can we use Notion Invoice management with Python Programming? Part-1](https://medium.com/@BatuhanYildirim1148/can-we-use-notion-invoice-management-with-python-programming-part-1-2755e2b7aaeb)
 
 ---
 
