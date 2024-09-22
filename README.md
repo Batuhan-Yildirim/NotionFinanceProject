@@ -9,14 +9,18 @@ The Notion is a new era for a workspace 📑 where you can think, write, and pla
 
 # Jupyter Notebooks Workbooks 🗂
 
-I provide some financial formulas for you, you can check and improve your financial knowledge in there. Moreover, when you access my [Notion Finance Project page](https://batuhanyildirim.notion.site/Notion-API-Test-dd15a7b958bf4c6494102517a03d8946?pvs=4), You may read the financial formulas description.
+1) I provide some financial formulas for you, you can check and improve your financial knowledge in there. Moreover, when you access my [Notion Finance Project page](https://batuhanyildirim.notion.site/Notion-API-Test-dd15a7b958bf4c6494102517a03d8946?pvs=4), You may read the financial formulas description.
 
 * [Formulas Woorkbook](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/blob/main/WorkCodes/ForumlasWorkBook.ipynb)
 
 
-I created a database about Financial Accounting Glossary for you. It includes keywords for understanding Financial Accounting. You can find [Financial Accounting Glossary](https://www.notion.so/batuhanyildirim/Finance-Dictionary-Libraries-743da84b1de540df8da8c5d5d8460c79?pvs=4) on Notion. Also, I provided a script to reach the database with Python.
+2) I created a database about Financial Accounting Glossary for you. It includes keywords for understanding Financial Accounting. You can find [Financial Accounting Glossary](https://www.notion.so/batuhanyildirim/Finance-Dictionary-Libraries-743da84b1de540df8da8c5d5d8460c79?pvs=4) on Notion. Also, I provided a script to reach the database with Python.
 
  * [Financial Accounting Glossary](https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/blob/main/Finance_Glossary/Finance_Glossary.ipynb)
+
+3) I created a database about Invoice Managment for you. It is a very helpfull for Account Payable managment and analyst your spending. You can find [Invoice Database](https://batuhanyildirim.notion.site/Invoices-Database-43319bc014cd43ad9c2d306c2592c60f) on Notion. Also, I provided a script to reach the database with Python.
+
+ * [Invoice Database](https://github.com/Batuhan-Yildirim/NotionFinanceProject/blob/main/Invoice_db/invoice.py)
 
 ---
 
@@ -58,5 +62,7 @@ This Python file's aim is a push code automatically to your report. So, this fun
 
 ---
 # Notes:
+
+New invoice database scripts will be here soon with AI.
 
 ---
