@@ -3,22 +3,6 @@
 <img src="https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/assets/110935969/085b1e7b-f2ae-4c85-b81f-9c4e366b5d71" alt="notion avatar" width="100" height="100" align="left">
 The Notion is a new era for a workspace 📑 where you can think, write, and plan. When you use it, you will see a simple user interface and you don’t need anything. Just click the button and discover an amazing world 👻. In this way, you can increase your personal efficiency ⏱, and improve your memory with Notion. I am using it for daily notes, saving websites, recording codes, and creating a deadline for my projects. For this reason, I developed a project in Notion with 🐍 Python. I specifically focus on database uploading and downloading steps in Python. For visualization, I used a Notion. Also, this project includes javascript codes. So, if you don't know about javascript you can watch these videos. Furthermore, I wrote a review about my project on Medium and I shared some tips there. 
 
----
-<h1><a href="https://www.youtube.com/watch?v=M1gu9MDucMA&ab_channel=PatrickLoeber" ><p align="center"> For Notion API Video 1 🎥</p></a></h1>
-
-<p align="center"><a href="https://www.youtube.com/watch?v=M1gu9MDucMA&ab_channel=PatrickLoeber"><img src="https://images.unsplash.com/photo-1642132652859-3ef5a1048fd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1460&q=80" align="center" width="50%" height="50%"></p>
-
-<h1><a href="https://www.youtube.com/watch?v=ec5m6t77eYM&ab_channel=ThomasFrankExplains" ><p align="center"> For Notion API Video 2 🎥</p></a></h1>
-
-<p align="center"><a href="https://www.youtube.com/watch?v=KENSTonsiEc&ab_channel=IndyDevDan"><img src="https://images.unsplash.com/photo-1681583721832-7260a39e88f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" width="50%" height="50%"></p>
-
-<h1><a href="https://www.youtube.com/watch?v=ec5m6t77eYM&ab_channel=ThomasFrankExplains" ><p align="center"> For Notion API Video 3 🎥</p></a></h1>
-
-<p align="center"><a href="https://www.youtube.com/watch?v=KENSTonsiEc&ab_channel=IndyDevDan"><img src="https://images.unsplash.com/photo-1681583722627-3ad58f1cc0a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" align="center" width="50%" height="50%"></p>
-
----
-<h1><a href="https://www.youtube.com/watch?v=ec5m6t77eYM&ab_channel=ThomasFrankExplains" ><p align="center"> Notion Finance Project Page</p></a></h1>
-
 <p align="left"><a href="https://batuhanyildirim.notion.site/Notion-API-Finance-Project-dd15a7b958bf4c6494102517a03d8946?pvs=4"><img src="https://github.com/Ybatuhan-EcoBooster/NotionFinanceProject/assets/110935969/e1331ecb-8776-4a1a-a451-1b8ad0c2f339" idth="50%" height="50%"></p>
 
 ---
@@ -56,11 +40,23 @@ This Python file's aim is a push code automatically to your report. So, this fun
 - [Notion API](https://developers.notion.com/)
 - [Notion2Charts](https://notion2charts.com/)
 - [My Medium Review](https://medium.com/@BatuhanYildirim1148/can-notion-api-be-data-analyst-visualization-for-python-users-332cdf5d919)
+- ---
+<h1><a href="https://www.youtube.com/watch?v=M1gu9MDucMA&ab_channel=PatrickLoeber" ><p align="center"> For Notion API Video 1 🎥</p></a></h1>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=M1gu9MDucMA&ab_channel=PatrickLoeber"><img src="https://images.unsplash.com/photo-1642132652859-3ef5a1048fd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1460&q=80" align="center" width="50%" height="50%"></p>
+
+<h1><a href="https://www.youtube.com/watch?v=ec5m6t77eYM&ab_channel=ThomasFrankExplains" ><p align="center"> For Notion API Video 2 🎥</p></a></h1>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=KENSTonsiEc&ab_channel=IndyDevDan"><img src="https://images.unsplash.com/photo-1681583721832-7260a39e88f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" width="50%" height="50%"></p>
+
+<h1><a href="https://www.youtube.com/watch?v=ec5m6t77eYM&ab_channel=ThomasFrankExplains" ><p align="center"> For Notion API Video 3 🎥</p></a></h1>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=KENSTonsiEc&ab_channel=IndyDevDan"><img src="https://images.unsplash.com/photo-1681583722627-3ad58f1cc0a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" align="center" width="50%" height="50%"></p>
+
+---
+<h1><a href="https://www.youtube.com/watch?v=ec5m6t77eYM&ab_channel=ThomasFrankExplains" ><p align="center"> Notion Finance Project Page</p></a></h1>
 
 ---
 # Notes:
 
-# For My Work Plan Template 📑
-
-[💲Finance Data Analyst For Python Planner](https://pixelpallette.gumroad.com/l/FinanceDataAnalystPlanner?layout=profile)
 ---
